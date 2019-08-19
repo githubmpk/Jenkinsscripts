@@ -1,0 +1,9 @@
+###Ignoring system files###
+/.idea
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
